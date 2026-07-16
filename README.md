@@ -35,9 +35,13 @@ I have hands-on experience developing RESTful APIs using Spring Boot, Spring Dat
 
 # 📊 GitHub Stats:
 
-<!-- IMPORTANTE: Substitua 'seu-usuario' nas duas URLs abaixo pelo seu nome de usuário real do GitHub -->
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=linnkjoe&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+  <a href="https://github.com/linnkjoe">
+    <img src="https://github-stats-extended.vercel.app/api?username=linnkjoe&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
+  </a>
+  <a href="https://github.com/linnkjoe">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=linnkjoe&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+  </a>
 </p>
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=linnkjoe&theme=radial)](https://github.com/linnkjoe)

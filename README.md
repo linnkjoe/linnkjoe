@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-### 👋 Hello! I'm a Backend Developer
+### 👋 Hello! I'm a Software Developer
 
-Backend Developer focused on the Java ecosystem, studying Software Engineering at Universidade Eduardo Mondlane (UEM) in Maputo, Mozambique. I enjoy building scalable, well-structured backend systems and connecting them to modern React frontends.
+Software Developer focused on the Java ecosystem and modern web development, studying Software Engineering at Universidade Eduardo Mondlane (UEM) in Maputo, Mozambique. I enjoy building scalable, well-structured backend systems with Java and Spring Boot and connecting them to responsive frontends built with React.js and Bootstrap.
 
-I have hands-on experience developing RESTful APIs using Spring Boot, Spring Data JPA (Hibernate), and Spring Security, documenting them with Swagger/OpenAPI and writing unit tests with JUnit 5 & Mockito to ensure code quality and reliability.
+I have hands-on experience developing RESTful APIs using Spring Boot, Spring Data JPA (Hibernate), and Spring Security, documenting them with Swagger/OpenAPI and writing unit tests with JUnit 5 & Mockito to ensure code quality and reliability. On the frontend, I build component-driven interfaces with React.js and Bootstrap.
 
 📍 Based in Maputo, Mozambique · 🌍 Open to opportunities (local & remote)
 
@@ -13,11 +13,11 @@ I have hands-on experience developing RESTful APIs using Spring Boot, Spring Dat
 # 🚀 Featured Projects:
 
 ### 🏨 [Guesthouse Fullstack App](https://github.com/linnkjoe/guesthouse-fullstack-app)
-Full-stack guesthouse management system. REST API in Spring Boot with role-based access (client, manager, admin) via Spring Security, covering the full booking lifecycle (booking, check-in, check-out, extension, cancellation), plus a React frontend. Includes global exception handling and a unit test suite with JUnit and Mockito.
+Full-stack guesthouse management system. REST API in Spring Boot with role-based access (client, manager, admin) via Spring Security, covering the full booking lifecycle (booking, check-in, check-out, extension, cancellation), plus a React frontend styled with Bootstrap. Includes global exception handling and a unit test suite with JUnit and Mockito.
 
-`Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `React` `JUnit` `Mockito` `Swagger`
+`Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `React` `Bootstrap` `JUnit` `Mockito` `Swagger`
 
-### 🌐 Personal Portfolio
+### 🌐 [Personal Portfolio](https://portfolio-2026-ufij.onrender.com/)
 Portfolio website built with React and Bootstrap 5.3.
 
 `React` `JavaScript` `Bootstrap`

@@ -2,15 +2,30 @@
 
 ### 👋 Hello! I'm a Backend Developer
 
-Backend Developer focused on the Java ecosystem, with a strong academic foundation in Computer Engineering at Universidade Eduardo Mondlane (UEM) and a passion for building scalable, well-structured backend systems.
+Backend Developer focused on the Java ecosystem, studying Software Engineering at Universidade Eduardo Mondlane (UEM) in Maputo, Mozambique. I enjoy building scalable, well-structured backend systems and connecting them to modern React frontends.
 
-I have hands-on experience developing RESTful APIs using Spring Boot, Spring Data JPA (Hibernate), and Spring Security, as well as writing unit tests with JUnit 5 & Mockito to ensure code quality and reliability.
+I have hands-on experience developing RESTful APIs using Spring Boot, Spring Data JPA (Hibernate), and Spring Security, documenting them with Swagger/OpenAPI and writing unit tests with JUnit 5 & Mockito to ensure code quality and reliability.
+
+📍 Based in Maputo, Mozambique · 🌍 Open to opportunities (local & remote)
+
+---
+
+# 🚀 Featured Projects:
+
+### 🏨 [Guesthouse Fullstack App](https://github.com/linnkjoe/guesthouse-fullstack-app)
+Full-stack guesthouse management system. REST API in Spring Boot with role-based access (client, manager, admin) via Spring Security, covering the full booking lifecycle (booking, check-in, check-out, extension, cancellation), plus a React frontend. Includes global exception handling and a unit test suite with JUnit and Mockito.
+
+`Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `React` `JUnit` `Mockito` `Swagger`
+
+### 🌐 Personal Portfolio
+Portfolio website built with React and Bootstrap 5.3.
+
+`React` `JavaScript` `Bootstrap`
 
 ---
 
 # 🌐 Socials:
 
-<!-- Substitua o link do href pelo seu e-mail real e adicione suas redes se quiser -->
 <a href="mailto:jnelio@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
@@ -26,10 +41,13 @@ I have hands-on experience developing RESTful APIs using Spring Boot, Spring Dat
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
 
 ### 🗄️ ORM & Databases
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" /> <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" /> <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
 
-### 🛠️ Architecture & Testing
-<img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" /> <img src="https://img.shields.io/badge/Mockito-1E1E1E?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+### 🛠️ Architecture, Testing & Tools
+<img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" /> <img src="https://img.shields.io/badge/Mockito-1E1E1E?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 ---
 
@@ -37,10 +55,10 @@ I have hands-on experience developing RESTful APIs using Spring Boot, Spring Dat
 
 <p align="left">
   <a href="https://github.com/linnkjoe">
-    <img src="https://github-stats-extended.vercel.app/api?username=linnkjoe&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=linnkjoe&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/linnkjoe">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=linnkjoe&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=linnkjoe&layout=compact&theme=radial" alt="Top Languages" height="150" />
   </a>
 </p>
 
